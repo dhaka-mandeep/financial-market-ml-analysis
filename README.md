@@ -75,5 +75,4 @@ Skills Demonstrated
 - Quantitative & qualitative research integration
 
 
-## Documentation
-- Full Master’s Thesis: `docs/thesis_2024-25.pdf`
+
