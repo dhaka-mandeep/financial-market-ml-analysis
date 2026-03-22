@@ -26,6 +26,7 @@ Cryptocurrencies**
 - Ethereum (ETH)
 
 Data Sources**
+- kaggle
 - Yahoo Finance
 - CoinMarketCap
 - Glassnode
